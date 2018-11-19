@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sebastianpos/cap-aachen2018/master)
 
 # Trying GAP in a Jupyter notebook
 
@@ -9,7 +9,7 @@ remote GAP installation running on Binder (<https://mybinder.org/>).
 To start a new GAP session, perform the following steps:
 
 1. Click on the "launch binder" badge in this README file on GitHub, or open
-<https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master> in the browser.
+<https://mybinder.org/v2/gh/sebastianpos/cap-aachen2018/master> in the browser.
 
 2. A message `Loading repository: gap-system/try-gap-in-jupyter/master` will be 
 displayed, followed by a non-interactive preview. Please be patient, since it
